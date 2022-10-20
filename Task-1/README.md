@@ -15,6 +15,4 @@ ID - 20201228
 
 
 
-## 🚀 About Me
-I'm a full stack developer...
 
